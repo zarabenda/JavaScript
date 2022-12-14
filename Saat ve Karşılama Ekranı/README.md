@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# Clock and Greeting Practice🙌
+<b>TR:</b> Javascriptle yapılmış <b>Saat ve Karşılama Ekranı</b> bulunan web sayfası.<br>
+<b>EN:</b> Web page with <b>Clock and Greeting Screen</b> done with Javascript.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
