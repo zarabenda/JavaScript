@@ -1,5 +1,4 @@
-# To do List Project 2
-🙌
+# To do List Project 2🙌
 <b>TR:</b> Javascript ile yapılmış, eklenebilen, kaldırılabilen veya tamamlandı olarak işaretlenebilen liste elemanlarına sahip,<b>Yapılacaklar Listesi</b> işlevine sahip bir web sayfası.<br>
 <b>EN:</b> A web page with a <b>ToDo List</b> function, made with Javascript, with list elements that can be added, removed or marked as complete.
 
